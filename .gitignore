@@ -11,9 +11,6 @@ dist/
 build/
 .env
 
-# Temporary / directory alias
-DSAproject/
-
 # VS Code / IDE files
 .vscode/
 .idea/
