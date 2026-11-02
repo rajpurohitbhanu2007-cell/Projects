@@ -4,6 +4,17 @@ A clean, responsive **Employee Management System** web dashboard built with **HT
 
 ---
 
+## 👥 Team Members
+
+| Roll Number | Student Name |
+| :--- | :--- |
+| `25egjcc006` | Anjalee |
+| `25egjcc007` | Ankit Saini |
+| `25egjcc008` | Bhanu Pratap |
+| `25egjcc009` | Bhuvnesh Vaisnav |
+
+---
+
 ## 📌 4-Module Division
 
 ### 1. Module 1: Employee Registration & Record Management

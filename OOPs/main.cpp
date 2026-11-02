@@ -1,3 +1,15 @@
+/*
+ * ============================================================================
+ * Project: Library Management System (OOPs in C++)
+ * 
+ * Created By:
+ * - Anjalee          (Roll No: 25egjcc006)
+ * - Ankit Saini      (Roll No: 25egjcc007)
+ * - Bhanu Pratap     (Roll No: 25egjcc008)
+ * - Bhuvnesh Vaisnav (Roll No: 25egjcc009)
+ * ============================================================================
+ */
+
 #include <iostream>
 #include <vector>
 #include <string>

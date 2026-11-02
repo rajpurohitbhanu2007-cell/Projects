@@ -435,6 +435,18 @@ body {
   background: var(--surface);
 }
 
+.team-credits {
+  margin-top: 0.6rem;
+  padding-top: 0.5rem;
+  border-top: 1px dashed var(--border);
+  font-size: 0.82rem;
+  color: var(--text-main);
+}
+
+.team-credits p {
+  margin: 0.15rem 0;
+}
+
 /* Responsiveness */
 @media (max-width: 640px) {
   .header-container {

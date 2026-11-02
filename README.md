@@ -4,6 +4,17 @@ A multi-project portfolio organizing academic and development projects into dedi
 
 ---
 
+## 👥 Team Members
+
+| Roll Number | Student Name |
+| :--- | :--- |
+| `25egjcc006` | Anjalee |
+| `25egjcc007` | Ankit Saini |
+| `25egjcc008` | Bhanu Pratap |
+| `25egjcc009` | Bhuvnesh Vaisnav |
+
+---
+
 ## 📂 Project Directory Structure
 
 ```text

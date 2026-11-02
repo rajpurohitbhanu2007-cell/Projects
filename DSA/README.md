@@ -4,6 +4,17 @@ A terminal-based **Student Record Management System** developed in C using funda
 
 ---
 
+## 👥 Team Members
+
+| Roll Number | Student Name |
+| :--- | :--- |
+| `25egjcc006` | Anjalee |
+| `25egjcc007` | Ankit Saini |
+| `25egjcc008` | Bhanu Pratap |
+| `25egjcc009` | Bhuvnesh Vaisnav |
+
+---
+
 ## 📌 Project Overview & Module Breakdown
 
 This project is divided into **4 distinct modules** as per the DSA project curriculum:

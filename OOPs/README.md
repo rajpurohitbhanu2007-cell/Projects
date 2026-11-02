@@ -4,6 +4,17 @@ A terminal-based **Library Management System** developed in **C++** with a core 
 
 ---
 
+## 👥 Team Members
+
+| Roll Number | Student Name |
+| :--- | :--- |
+| `25egjcc006` | Anjalee |
+| `25egjcc007` | Ankit Saini |
+| `25egjcc008` | Bhanu Pratap |
+| `25egjcc009` | Bhuvnesh Vaisnav |
+
+---
+
 ## 🏛️ OOP Concepts Demonstrated
 
 | Concept | Implementation in Code |
