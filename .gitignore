@@ -11,6 +11,12 @@ dist/
 build/
 .env
 
+# Local viva preparation documents and PDFs (excluded from GitHub)
+*.pdf
+*.docx
+*.doc
+Viva_Docs/
+
 # VS Code / IDE files
 .vscode/
 .idea/
