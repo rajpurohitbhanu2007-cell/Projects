@@ -1,9 +1,17 @@
-# Compiled binaries
+# Compiled binaries and object files
 *.exe
 *.o
 *.obj
 *.out
+*.class
+
+# Node / Web dev
+node_modules/
+dist/
+build/
+.env
 
 # VS Code / IDE files
 .vscode/
 .idea/
+*.swp
