@@ -9,7 +9,7 @@ A multi-project repository organizing academic and development projects into ded
 ```text
 Projects/
 ├── DSA/        # Data Structures & Algorithms Project (C)
-├── OOPs/       # Object-Oriented Programming Project
+├── OOPs/       # Object-Oriented Programming Project (C++)
 └── Web-Dev/    # Web Development Project
 ```
 
@@ -24,8 +24,10 @@ Projects/
 - **Status**: ✅ Completed (All 4 modules implemented)
 
 ### 2. [OOPs Project](./OOPs/)
-- **Topic**: Object-Oriented Programming Project
-- **Status**: ⏳ Reserved space / Work in progress
+- **Topic**: Library Management System
+- **Language**: C++
+- **Key Concepts**: Classes & Objects, Encapsulation, Inheritance, Polymorphism, Abstraction
+- **Status**: ✅ Completed (All 4 modules implemented)
 
 ### 3. [Web Development Project](./Web-Dev/)
 - **Topic**: Full Stack / Frontend Web Development Project
